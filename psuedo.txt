@@ -1,23 +1,5 @@
 to do list for sign up page 
-    find background image
-    find or design a logo
-    find/ download a font for the logo section
 
 
-create two sections/containers left and right
-inside left section  
-    background image
-    logo with title in new font
-
-inside right side
-    sample text describing the sign in page
-    form
-        first name
-        last name
-        email
-        phone number
-        password
-        confirm password
-        submit button
-    already have an account? button sign in
+edit for any future lessona
     

@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+body {
+    display: flex;
+}
+.left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("nature3.JPG");
+    background-size: cover;
+    height: 100vh;
+    width: 40vw;
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+}
+.dark {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(58, 35, 68, 0.7);
+    width: 40vw;
+    
+}
+.logo .brand {
+    opacity: 1;
+}
+.right {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 0 auto;
+    background-color: rgba(58, 35, 68, 0.7);
+    width: 60vw;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  form {
+    margin: 0 auto;
+    width: 400px;
+    /* Form outline */
+    padding: 1em;
+    border: 1px solid rgb(34, 9, 58);
+    border-radius: 1em;
+  }
+  label {
+    /* Uniform size & alignment */
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+  }
+  button {
+    font-family: Roboto, sans-serif;
+    border: none;
+    border-radius: 8px;
+    background: rgb(55, 8, 73);
+    padding: 8px 16px;
+    color: white;
+  }
+  input {
+    border: 1px solid rgb(105, 57, 124);
+    border-radius: 16px;
+    padding: 6px 16px;
+    background-color: rgb(55, 8, 73);
+    color: white;
+
+    margin-bottom: 16px;
+  }
+  a {
+    color: rgb(42, 9, 53);
+  }
+  .account {
+    margin-top: 20px;
+  }
+  fieldset {
+    border: none;
+  }
